@@ -1,6 +1,6 @@
 # HomeWork3
 ## 项目1
-![image1](https://github.com/ankleing/HomeWork3/blob/main/image/image1) 
+![image1](https://github.com/ankleing/HomeWork3/blob/main/image/image1.png) 
 ```
   protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -29,7 +29,7 @@
     }
 ```
 ## 项目2
-![image2](https://github.com/ankleing/HomeWork3/blob/main/image/image2) 
+![image2](https://github.com/ankleing/HomeWork3/blob/main/image/image2.png) 
 ```
   public void onClick(View view) {
         customDialog();
@@ -45,7 +45,7 @@
     }
 ```
 ## 项目3
-![image3](https://github.com/ankleing/HomeWork3/blob/main/image/image3) 
+![image3](https://github.com/ankleing/HomeWork3/blob/main/image/image3.png) 
 ```
   public boolean onCreateOptionsMenu(Menu menu) {
         /** 创建菜单*/
@@ -73,7 +73,7 @@
     }
 ```
 ## 项目4
-![image4](https://github.com/ankleing/HomeWork3/blob/main/image/image4) 
+![image4](https://github.com/ankleing/HomeWork3/blob/main/image/image4.png) 
 ```
        /**自定义适配器的getView */
     public View getView(final int position, View convertView, ViewGroup parent) {
